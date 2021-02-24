@@ -1,0 +1,10 @@
+welcome:
+    welcomeMessage: Welcome to hell
+    host.port: 9001
+    help:
+       helpUrl: https://github.com/victorrentea/spring/tree/Verint_2021_02
+       iconUri: bebe
+    supportUrls: google, stack, spring.io
+    localContactPhone:
+      RO: 123456
+      FR: 23212414
